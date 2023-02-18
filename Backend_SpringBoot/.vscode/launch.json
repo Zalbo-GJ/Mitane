@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MitaneapiApplication",
+            "request": "launch",
+            "mainClass": "com.tickets.info.emdbapi.MitaneapiApplication",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmdbapiApplication",
+            "request": "launch",
+            "mainClass": "com.tickets.info.emdbapi.EmdbapiApplication",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmdbapiApplication",
+            "request": "launch",
+            "mainClass": "com.tickets.info.emdbapi.EmdbapiApplication",
+            "projectName": "emdb-api-data"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EmdbapiApplication<emdbapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tickets.info.emdbapi.EmdbapiApplication",
+            "projectName": "emdbapi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

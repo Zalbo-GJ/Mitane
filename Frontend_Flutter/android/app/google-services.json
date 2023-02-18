@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006707414829",
+    "project_id": "authentication-c99af",
+    "storage_bucket": "authentication-c99af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006707414829:android:2101476e7832a42dc025a4",
+        "android_client_info": {
+          "package_name": "com.example.mitane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006707414829-rdp3o01vunr563mva02q25jj7vbmp4qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCOxvFz-pmlfDv5HmCjd20zRa-bXJfmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006707414829-rdp3o01vunr563mva02q25jj7vbmp4qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
